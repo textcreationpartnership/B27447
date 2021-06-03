@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Noctvrnall occvrrences, or, Deeds of darknesse committed by the cavaleers in their rendevous whereunto is conjoyned the severall postures used with their whores and pimpes : answering a booke, not long since printed, to which is annexed the exercise of souldiers beginning with these words, round heads stand to your armes.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27447</idno><idno type="EEBO-CITATION">12282050</idno>
+  <idno type="VID">197647</idno>
+  <idno type="EEBO-PROQUEST">2240969703</idno>
+  
+            <idno type="STC">Wing N1217</idno>
+            <idno type="OCLC">12282050</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E117, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Noctvrnall occvrrences, or, Deeds of darknesse committed by the cavaleers in their rendevous whereunto is conjoyned the severall postures used with their whores and pimpes : answering a booke, not long since printed, to which is annexed the exercise of souldiers beginning with these words, round heads stand to your armes.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Christopher,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Royalists --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197647:1"/>
+            <p>NOCTVRNALL OCCVRRENCES OR, DEEDS OF DARKNESSE: COMMITTED, By the Cavaleers in their Rendevous.</p>
+            <p>Whereunto is Conjoyned, THE SEVERALL POSTURES, used with their Whores and Pimpes; an<g ref="char:EOLhyphen"/>swering a Booke (not long since Prin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed) to which is annexed, the Exercise of Souldiers; be<g ref="char:EOLhyphen"/>ginning with these words, <hi>Round-Heads stand to your Armes.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>E. Christopher.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197647:2"/>
+            <pb facs="tcp:197647:2"/>
+            <head>
+               <hi>Nocturnall Occurrences:</hi> OR, The Deeds of Darknesse.</head>
+            <p>THe many injurious, words and villifying scoffes which this many a deare day have been practised, to the abuse of the most impertinent and over-zealous <hi>Roundhead</hi> (of which Faction I am forced to professe my selfe a mem<g ref="char:EOLhyphen"/>ber) doth urge me (according to the divine inspi<g ref="char:EOLhyphen"/>ration of disorder) to return a brief expression of their hideous, detestible, inexorable, implacable, inveterate, incorrigible, damnable, confoundible, and abhominable crimes; practized in this Age, amongst those malignant and bloud-sucking Ca<g ref="char:EOLhyphen"/>nibals the <hi>Cabaleiroes,</hi> now dissembled in severall parts of this Kingdome; which when you shall hear by how much danger I have atchieved the knowledge of it; you will admire him that hath been an honest <hi>Busi-body</hi> for the generall good of you, your Lives and Fortunes, Wives and Chil<g ref="char:EOLhyphen"/>dren, and make a prayer <hi>(sans Privilegio)</hi> for me, and my Successors.</p>
+            <div type="part">
+               <pb facs="tcp:197647:3"/>
+               <head>The Relation.</head>
+               <p>IN the year <hi>Sixteen hundred forty and two,</hi> I <hi>Holofernes Holy-hawk,</hi> late of <hi>gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious-street</hi> at the signe of the <hi>Hoope</hi> and <hi>VVindmill;</hi> betwixt <hi>Hawk</hi> and <hi>Bussard</hi>) over against the three Log<g ref="char:EOLhyphen"/>gerheads, <hi>Shuttlecock-maker,</hi> (hearing the severall tumults expressed in many Pamphlets concern<g ref="char:EOLhyphen"/>ing the <hi>Cabaleiroes,</hi> dissembled for the generall conversion or particular confusion of this Nati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n) sadled me an horse, unknown to my wife and chil<g ref="char:EOLhyphen"/>dren, and rid privately to <hi>York,</hi> a place some six<g ref="char:EOLhyphen"/>score mile from <hi>London,</hi> scituate in the Northern parts of this Island, where I had intelligence of those strange sort of people called the <hi>Cabalei<g ref="char:EOLhyphen"/>roes,</hi> whose name is more cause of quarrell for us then the people themselves; for if they loved or wished well to the Country, they would not ac<g ref="char:EOLhyphen"/>knowledge such a name as the Country under<g ref="char:EOLhyphen"/>stands not. After, with much trouble, I had at<g ref="char:EOLhyphen"/>tained the City of York, upon which Mother <hi>Shipton</hi> prophesied a lasting Court for Kings, I perceived many of these <hi>Cabaleiroes</hi> richly deckd with long sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g hair, reaching down to their heels, who were Commanders to a Troop of horse that were all armed in jet; the <hi>Coronet</hi> bearing these words in the Banner, <hi>Damme we'll win the day;</hi> the Troope being at a stand, I began to remember a Text in the fourteenth Chapter of <hi>Susanna</hi> the fifteenth Verse, where as I take it, there is expressed these following words.</p>
+               <p>
+                  <hi>Vnlesse thou return from being a Cabaleiro, and
+<pb facs="tcp:197647:3"/> con<g ref="char:EOLhyphen"/>fide with the Elect, thy punishment is not to be over<g ref="char:EOLhyphen"/>came by Law, but Power.</hi>
+               </p>
+               <p>I was going to divide this Text into four parts, and they were so furious, I thought they would have divided me into forty, called me <hi>Roundhead,</hi> Prick-eare, Brownist, Separatist, Anabaptist, and a thousand things more then I durst stay to hear; for two or three fellows were doing of their guns to shoot me, but by strange miracle, I escaped; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd suddenly after met a foot Company, the Rank and File consisting of Men and Women; which though they said nothing, was to me a greater assault then the first: for Sathan had so much pre<g ref="char:EOLhyphen"/>vailed, that I was like to alight and march with a woman that carried the Colours <hi>(She painted)</hi> but was presently put off by a Serjeants, wife that was Captain of the company, whose hair was of that large length, it was carried up by sixteen boyes, every boy having sixe more to carry up theirs: after I had sufficiently satisfied mine eye, and that the time grew late, the soldiers being quarter'd, I dog'd the Commanders to a Tavern, and being secure in another room, saw their detestible and lascivious <hi>Exercise,</hi> in which they imitated the Postures of the Musket, containing thirty four Postures, which were then expressed to their Pimpes and their Whores, and as I remember, they were on this manner:</p>
+               <p>An ugly shag-hair'd black fellow, with a flat nose, and a black Plaister on the face, gave the word of Command; beginning thus.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:197647:4"/>
+               <head>Cavaleers stand to your Armes.</head>
+               <p>Now you must conceive that the Whore was the Mus<g ref="char:EOLhyphen"/>quet and March, the Pimpe the Rest, and the Cabaleiro the Souldier</p>
+               <p>Silence.</p>
+               <list>
+                  <label>1.</label>
+                  <item>IF the Enemy come <hi>March with your Pi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pe and Mistrisie shouldered.</hi>
+                  </item>
+                  <label>2.</label>
+                  <item>If they be farre off —<hi>Prepare your Pimpe.</hi>
+                  </item>
+                  <label>3.</label>
+                  <item>If you fear an Overthrow — <hi>Slip your Mistresse, &amp;c.</hi>
+                  </item>
+                  <label>4.</label>
+                  <item>If you hope to overcome — <hi>Pease your Whore.</hi>
+                  </item>
+                  <label>5.</label>
+                  <item>If the house be prepared—<hi>Ioin your whore &amp; Pimp together</hi>
+                  </item>
+                  <label>6.</label>
+                  <item>When you are safe there—<hi>Take out your VVhore.</hi>
+                  </item>
+                  <label>7.</label>
+                  <item>If she be unwilling to fall—<hi>Blow your ƲƲhere.</hi>
+                  </item>
+                  <label>8.</label>
+                  <item>If you are well provided—<hi>Cocke your ƲƲhore.</hi>
+                  </item>
+                  <label>9.</label>
+                  <item>If you have cause to doubt—<hi>Try your ƲƲhore.</hi>
+                  </item>
+                  <label>10.</label>
+                  <item>If any come to interrupt you — <hi>Guard your ƲƲhore.</hi>
+                  </item>
+                  <label>11.</label>
+                  <item>If the Whiting lye dry on her face—<hi>Blow your whore.</hi>
+                  </item>
+                  <label>12.</label>
+                  <item>If the Scouts be cleer—<hi>Open your ƲƲhore.</hi>
+                  </item>
+                  <label>13.</label>
+                  <item>when you have perform'd your intent <hi>Present your whore</hi>
+                  </item>
+                  <label>
+                     <pb facs="tcp:197647:4"/>14.</label>
+                  <item>If it be not too late —<hi>Give fire.</hi>
+                  </item>
+                  <label>15.</label>
+                  <item>After you have atchieved strength—<hi>Recover your whore.</hi>
+                  </item>
+                  <label>16.</label>
+                  <item>But if another Cavaleir did lately—<hi>Ʋncock the wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re.</hi>
+                  </item>
+                  <label>17.</label>
+                  <item>It shall become your breeding to — <hi>Return the whore.</hi>
+                  </item>
+                  <label>18.</label>
+                  <item>Ere you make further tryall—<hi>Cleere the ƲƲhore.</hi>
+                  </item>
+                  <label>19.</label>
+                  <item>If she be not too old— <hi>Prime your Whore,</hi>
+                  </item>
+                  <label>20.</label>
+                  <item>If you will keep her private—<hi>Shut your VVhore.</hi>
+                  </item>
+                  <label>21.</label>
+                  <item>If in a place that's dusty— <hi>Blow your Whore.</hi>
+                  </item>
+                  <label>22.</label>
+                  <item>If she be true to you — <hi>Cast off your loose Whores</hi>
+                  </item>
+                  <label>23.</label>
+                  <item>If Authority come neer you — <hi>Cast about your Whore.</hi>
+                  </item>
+                  <label>24.</label>
+                  <item>When you walke — <hi>Traile your Pimpe.</hi>
+                  </item>
+                  <label>25</label>
+                  <item>Make him swear he shall not — <hi>Open your Charge.</hi>
+                  </item>
+                  <label>26.</label>
+                  <item>If she will be gadding — <hi>Charge your VVhore.</hi>
+                  </item>
+                  <label>27</label>
+                  <item>If she provoke you— <hi>Draw out your scowring sticke.</hi>
+                  </item>
+                  <label>28</label>
+                  <item>It is the only way to—<hi>Shorten your scowring sticke.</hi>
+                  </item>
+                  <label>29</label>
+                  <item>If she be faulty with another — <hi>Ramme your where.</hi>
+                  </item>
+                  <label>30</label>
+                  <item>For that cause you may —<hi>Withdraw your scowring sticke.</hi>
+                  </item>
+                  <label>31</label>
+                  <item>Least in time she— <hi>Shorten your scowring sticke</hi>
+                  </item>
+                  <label>
+                     <pb facs="tcp:197647:5"/>32</label>
+                  <item>But if she will stray no more— <hi>Return your scowring stick.</hi>
+                  </item>
+                  <label>33</label>
+                  <item>If you can gain her preferment-<hi>Bring forward your whore,</hi>
+                  </item>
+                  <label>34</label>
+                  <item>If you receive no conflict. <hi>Recover your Pimpe and Whore into your first Posture.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>For the Pike.</head>
+                  <item>If you lead her home by dark <hi>Shoulder your Whore.</hi>
+                  </item>
+                  <item>If she be uncivill in her lodging <hi>Order your Whore.</hi>
+                  </item>
+                  <item>If she admit of any Gallants
+<list>
+                        <item>
+                           <hi>Check your whore,</hi>
+                        </item>
+                        <item>
+                           <hi>Port your whore.</hi>
+                        </item>
+                        <item>
+                           <hi>Comport your whore.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>If you would make her known <hi>Report your whore.</hi>
+                  </item>
+                  <item>If you gain the Victory <hi>Advance your whore.</hi>
+                  </item>
+                  <item>But if the well affect Partie gain the better of you. <hi>Shoulder your ƲƲhore and march.</hi>
+                  </item>
+               </list>
+               <epigraph>
+                  <q>
+                     <l>Thus home to London marching with few Feares,</l>
+                     <l>I have told the Postures of the Cavaleirs.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
